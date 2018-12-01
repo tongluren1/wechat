@@ -1,0 +1,16 @@
+{
+    "name": "qmang/wechat",
+    "description": "this is wechat project.",
+    "authors": [
+        {
+            "name": "guozheng",
+            "email": "2084759131@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Qmang\\Wechat\\": "src/"
+        }
+    },
+    "require": {}
+}
